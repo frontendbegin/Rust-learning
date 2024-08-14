@@ -20,6 +20,8 @@ fn main() {
     // println!("The value of x is {} and the value of y is {}", x, y)
     // define_x();
     let i: i32 = 3;
+    let x = (1,2.4,3);
+    let one = x.1;
 }
 
 // fn define_x()
